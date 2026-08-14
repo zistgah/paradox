@@ -1,0 +1,30 @@
+{
+  "id": "ch-04",
+  "title": "The Frame-Divergent, Task-Convergent Thinker",
+  "subtitle": "A scale-sensitive framework, and the difference between performative expertise and epistemic authorship",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The key correction: divergence is not merely a local operation inside an accepted frame. A person can diverge at the frame level while converging at the task level — global divergence plus local convergence, which is not the safer inverse. The divergence happens before the room was defined. Such a thinker appears disciplined locally, expert locally, conventional in execution, and simultaneously heterodox, revisionist and disobedient to the frame."
+    },
+    {
+      "type": "figure",
+      "id": "frame-divergent-task-convergent",
+      "dimension": "2d",
+      "src": "assets/figures/frame-divergent-task-convergent.png",
+      "alt": "The Frame-Divergent, Task-Convergent Thinker",
+      "caption": "The Frame-Divergent, Task-Convergent Thinker — A scale-sensitive framework, and the difference between performative expertise and epistemic authorship",
+      "explanation": "The closest existing concept named is paradigm-level thinking after Kuhn: a paradigm determines what counts as a legitimate problem, method, evidence and solution, and a GDLC thinker operates competently inside paradigm P while remaining capable of questioning P itself. The plate is careful that creativity typology and T-shaped models describe differences within tasks, not the level at which divergence occurs — which is the distinction being introduced.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"The Frame-Divergent, Task-Convergent Thinker\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-07",
+  "title": "Inclination as the Missing Biomimetic Primitive",
+  "subtitle": "Correlating PEDLER with neuroscience on creativity, thinking and innovation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Neuroscience rejects the divergence-or-convergence dichotomy: creative cognition arises from interaction between spontaneous generation and deliberate control networks, and creative performance depends on regulating that balance rather than possessing one side of it. Metacontrol is the flexibility-persistence axis, dynamic rather than fixed, and high-metacontrol individuals perform better on both divergent and convergent tasks. Signed information is common in the brain — prediction error, excitation-inhibition balance, exploration versus exploitation."
+    },
+    {
+      "type": "figure",
+      "id": "the-missing-biomimetic-primitive",
+      "dimension": "2d",
+      "src": "assets/figures/the-missing-biomimetic-primitive.png",
+      "alt": "Inclination as the Missing Biomimetic Primitive",
+      "caption": "Inclination as the Missing Biomimetic Primitive — Correlating PEDLER with neuroscience on creativity, thinking and innovation",
+      "explanation": "The proposed biomimetic principle is stated as a hypothesis and labelled as one. Current neural-network abstractions use weights plus activations, with some variants carrying signed weights, inhibition-like mechanisms and negative prediction errors; what may be missing is a persistent, signed, edge-level inclination field over possible transitions that participates directly in selection and action. The plate does not claim this is established — it claims it is the abstraction worth testing.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"Inclination as the Missing Biomimetic Primitive\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

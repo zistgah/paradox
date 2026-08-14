@@ -1,0 +1,10 @@
+{
+  "protocol": "candor/v1",
+  "utc": "20260814T051523Z",
+  "operation": "seed_paradox.sh 1.0.0",
+  "repo": "zistgah/paradox",
+  "intent": "seed paradox: 9 plates + cover",
+  "template": "zistgah/kitab",
+  "template_head": "6f499df69b59b2260587b27b537b5f88e9ef682b",
+  "agent": "Claude Opus 4.8"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-08",
+  "title": "Gradients, Sign, and the Biomimetic Gap",
+  "subtitle": "Inclination as signed directional information over possible transitions, and its neural correlates",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Inclination for a possible transition is a signed value in the closed interval from minus one to plus one. Zero is directional neutrality, not cessation; negative inclination is not the absence of positive inclination but active counter-inclination. Decay weakens magnitude while preserving sign, and reversal requires new information capable of changing the directional preference. Neural correlates are surveyed in three registers: physical and electrical gradients, excitation-inhibition gradients, and signed reward prediction error."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-and-neuroscience",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-and-neuroscience.png",
+      "alt": "Gradients, Sign, and the Biomimetic Gap",
+      "caption": "Gradients, Sign, and the Biomimetic Gap — Inclination as signed directional information over possible transitions, and its neural correlates",
+      "explanation": "The gradient-versus-inclination panel is the distinction the whole series rests on. A gradient is a mathematical derivative field telling you how a function changes in different directions; inclination is a signed directional disposition of the system toward a particular possible transition, conditioned on state, context, time, history and internal state. Gradient provides directional information. Inclination attaches that information to executable possibilities. They are not the same object.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"Gradients, Sign, and the Biomimetic Gap\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-02",
+  "title": "The Thesis and Its Reading",
+  "subtitle": "The original manuscript alongside a reader's interpretation, agreements and refinements set side by side",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The manuscript in the author's own hand, flanked by a reading of it: ten points of interpretation on the left and right, then three explicit registers at the foot — the overall interpretation, where the reader agreed strongly, and where the reader differed or refined. Research rewards divergent thinking; documentary work supports convergence; and even documentary sciences turn divergent during the discussion and theory-development phase, which is visible in only a small part of the finished paper."
+    },
+    {
+      "type": "figure",
+      "id": "the-dialogue-and-the-thesis",
+      "dimension": "2d",
+      "src": "assets/figures/the-dialogue-and-the-thesis.png",
+      "alt": "The Thesis and Its Reading",
+      "caption": "The Thesis and Its Reading — The original manuscript alongside a reader's interpretation, agreements and refinements set side by side",
+      "explanation": "This plate is the Balance of Interpretation performed rather than described. The reader does not summarise the thesis and present the summary as the thesis; the original is reproduced intact and the reading sits beside it, with disagreements named as the reader's own. That structural separation — source preserved, interpretation labelled, differences owned — is the method the rest of the series argues for, shown once in operation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"The Thesis and Its Reading\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

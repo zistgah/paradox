@@ -1,0 +1,30 @@
+{
+  "id": "ch-01",
+  "title": "Three Epistemic Modes and the Balance of Interpretation",
+  "subtitle": "Divergent, documentary and convergent operations across research, history, forensics and product development",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The foundational plate. All inquiry oscillates between three operations: divergent (expand the hypothesis space), documentary (reduce uncertainty by systematic recording) and convergent (select and optimise). Documentation is not inferior to divergence; it performs a different epistemic function. The failure mode is documentation becoming the entire cycle — observe, classify, record, cite, reproduce — instead of observe, perturb the ontology, hypothesise, test, revise, document."
+    },
+    {
+      "type": "figure",
+      "id": "balance-of-epistemic-operations",
+      "dimension": "2d",
+      "src": "assets/figures/balance-of-epistemic-operations.png",
+      "alt": "Three Epistemic Modes and the Balance of Interpretation",
+      "caption": "Three Epistemic Modes and the Balance of Interpretation — Divergent, documentary and convergent operations across research, history, forensics and product development",
+      "explanation": "Panel 5 is the one with teeth. It separates three quantities usually conflated into one: divergent capacity D, convergent execution C, and institutional realization I. h-index and i10 primarily observe I, carry some information about C, and give only a noisy and heavily confounded signal about D. A high h-index can arise entirely within an established paradigm; genuinely divergent thinkers can have low metrics. The metric measures the ecosystem, not the epistemic act.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"Three Epistemic Modes and the Balance of Interpretation\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

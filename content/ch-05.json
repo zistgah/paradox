@@ -1,0 +1,30 @@
+{
+  "id": "ch-05",
+  "title": "The Observer's Burden",
+  "subtitle": "Why a globally divergent, locally convergent mind requires a balance of interpretation by others",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The conflict is not inside the head; it is in the observer's interpretation. At the local scale, observers see discipline, compliance, precision and reproducible results. At the global scale they see the premise challenged and the ontology questioned. Both observations are correct, and the correct inference preserves both rather than explaining either away."
+    },
+    {
+      "type": "figure",
+      "id": "the-observers-burden",
+      "dimension": "2d",
+      "src": "assets/figures/the-observers-burden.png",
+      "alt": "The Observer's Burden",
+      "caption": "The Observer's Burden — Why a globally divergent, locally convergent mind requires a balance of interpretation by others",
+      "explanation": "The two named interpretive errors are symmetric and both common. Explaining away the divergence reads it as eccentricity; explaining away the convergence reads the person as unstable or uncommitted. The plate's closing move is the sharp one: the error need not be in the person's cognition at all. It can be an error in the observer's model of the person, when the observer's ontology has no category for the combination.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"The Observer's Burden\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

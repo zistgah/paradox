@@ -1,0 +1,30 @@
+{
+  "id": "ch-06",
+  "title": "Inclination: From Directional Disposition to Executed Transition",
+  "subtitle": "Judicial reasoning, machine learning and PEDLER ontology mapped onto one abstraction",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Inclination enters the PEDLER vocabulary from the common-law formulation — we are inclined to accept X, we are not inclined to accept X — which expresses a directional state that is not yet a final executable act. It sits between Observation and Intent as the directional intermediate, and it belongs to the transition structure (edges), not merely to nodes and states. The hierarchy of commitment is inclination, then intent, then act, then execution."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-to-executed-transition",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-to-executed-transition.png",
+      "alt": "Inclination: From Directional Disposition to Executed Transition",
+      "caption": "Inclination: From Directional Disposition to Executed Transition — Judicial reasoning, machine learning and PEDLER ontology mapped onto one abstraction",
+      "explanation": "The three-domain correspondence is the load-bearing claim: judicial reasoning runs evidence to inclination to judgment; backpropagation runs error signal to gradient to update; PEDLER runs observation and evaluation to inclination to selection, intent, act and execution. The common abstraction is that inclination is directional information over possible transitions. The Natural Justice Gate then intervenes precisely between emerging directional preference and executable adverse transition — inclination is evidence of directional disposition, not authorization to execute.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"Inclination: From Directional Disposition to Executed Transition\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

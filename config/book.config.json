@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "The Paradox of Innovation",
+    "subtitle": "A Theory of Convergence",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "Copyright (c) 1993-2026 Abhishek Choudhary. All rights reserved.",
+    "license": "CC-BY-SA-4.0",
+    "doi": null,
+    "repo": "zistgah/paradox",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "p1",
+        "title": "The Epistemic Operations",
+        "chapters": [
+          "balance-of-epistemic-operations",
+          "the-dialogue-and-the-thesis"
+        ]
+      },
+      {
+        "id": "p2",
+        "title": "The Phenotype",
+        "chapters": [
+          "the-gdlc-phenotype",
+          "frame-divergent-task-convergent",
+          "the-observers-burden"
+        ]
+      },
+      {
+        "id": "p3",
+        "title": "Inclination as Primitive",
+        "chapters": [
+          "inclination-to-executed-transition",
+          "the-missing-biomimetic-primitive",
+          "inclination-and-neuroscience"
+        ]
+      },
+      {
+        "id": "p4",
+        "title": "The Theory of Convergence",
+        "chapters": [
+          "cems-and-a-theory-of-convergence"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "Three Epistemic Modes and the Balance of Interpretation",
+        "subtitle": "Divergent, documentary and convergent operations across research, history, forensics and product development",
+        "source": "content/ch-01.json",
+        "topics": [
+          "divergence",
+          "convergence",
+          "documentation",
+          "h-index",
+          "forensics",
+          "epistemic modes"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "The Thesis and Its Reading",
+        "subtitle": "The original manuscript alongside a reader's interpretation, agreements and refinements set side by side",
+        "source": "content/ch-02.json",
+        "topics": [
+          "balance of interpretation",
+          "thesis",
+          "history as science",
+          "forensic science",
+          "divergent thinkers"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "Globally Divergent, Locally Convergent",
+        "subtitle": "The rarest and most consequential cognitive phenotype, and why it is statistically rare",
+        "source": "content/ch-03.json",
+        "topics": [
+          "GDLC",
+          "cognitive phenotype",
+          "frame authorship",
+          "epistemic authority",
+          "rarity"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "The Frame-Divergent, Task-Convergent Thinker",
+        "subtitle": "A scale-sensitive framework, and the difference between performative expertise and epistemic authorship",
+        "source": "content/ch-04.json",
+        "topics": [
+          "paradigm",
+          "epistemic authorship",
+          "performative expertise",
+          "scale",
+          "Kuhn"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "The Observer's Burden",
+        "subtitle": "Why a globally divergent, locally convergent mind requires a balance of interpretation by others",
+        "source": "content/ch-05.json",
+        "topics": [
+          "interpretive error",
+          "observer",
+          "individual equity",
+          "scale-dependence",
+          "epistemic control"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "Inclination: From Directional Disposition to Executed Transition",
+        "subtitle": "Judicial reasoning, machine learning and PEDLER ontology mapped onto one abstraction",
+        "source": "content/ch-06.json",
+        "topics": [
+          "inclination",
+          "PEDLER",
+          "natural justice",
+          "gradient",
+          "common law",
+          "transition structure"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "Inclination as the Missing Biomimetic Primitive",
+        "subtitle": "Correlating PEDLER with neuroscience on creativity, thinking and innovation",
+        "source": "content/ch-07.json",
+        "topics": [
+          "metacontrol",
+          "biomimetics",
+          "prediction error",
+          "creativity",
+          "neuroscience",
+          "inclination field"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "Gradients, Sign, and the Biomimetic Gap",
+        "subtitle": "Inclination as signed directional information over possible transitions, and its neural correlates",
+        "source": "content/ch-08.json",
+        "topics": [
+          "signed inclination",
+          "gradient",
+          "prediction error",
+          "excitation inhibition",
+          "action selection"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "CEMs and a Theory of Convergence",
+        "subtitle": "Cognitive enablement across bioforms and synthetiforms, and convergence as contraction of a signed transition field",
+        "source": "content/ch-09.json",
+        "topics": [
+          "CEM",
+          "convergence operator",
+          "transition field",
+          "TransEg",
+          "synthetiform",
+          "bioform"
+        ]
+      }
+    ]
+  }
+}

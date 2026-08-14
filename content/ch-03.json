@@ -1,0 +1,30 @@
+{
+  "id": "ch-03",
+  "title": "Globally Divergent, Locally Convergent",
+  "subtitle": "The rarest and most consequential cognitive phenotype, and why it is statistically rare",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Divergence and convergence operate at two scales, global (frame, ontology, problem space) and local (task, execution, implementation), yielding four cognitive configurations: the conventional executor, the safe innovator, the frame-divergent/task-convergent thinker, and the unbounded explorer. GDLC is the third: maximal divergence in the construction of the global frame with maximal convergence in whatever local frame has been temporarily chosen."
+    },
+    {
+      "type": "figure",
+      "id": "the-gdlc-phenotype",
+      "dimension": "2d",
+      "src": "assets/figures/the-gdlc-phenotype.png",
+      "alt": "Globally Divergent, Locally Convergent",
+      "caption": "Globally Divergent, Locally Convergent — The rarest and most consequential cognitive phenotype, and why it is statistically rare",
+      "explanation": "The rarity argument is a conjunction, not a sum. Extreme global divergence and extreme local convergence impose opposite control requirements, so their co-occurrence at high levels is the product of two small probabilities under imperfect independence. The plate also separates three levels of intellectual authority — performance, mastery, and frame authorship — and notes that one can be outstanding at the first two without possessing the third.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"Globally Divergent, Locally Convergent\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

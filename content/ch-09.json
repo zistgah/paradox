@@ -1,0 +1,30 @@
+{
+  "id": "ch-09",
+  "title": "CEMs and a Theory of Convergence",
+  "subtitle": "Cognitive enablement across bioforms and synthetiforms, and convergence as contraction of a signed transition field",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The unifying plate. Cognitive Enablement Modules always carry a substrate subscript and must not be collapsed into an unqualified CEM: the synthetiform branch runs PEDLER through LVF, MLCNE to a synthetiform module; the bioform branch runs persistent semantic services, staggered upload, persistent identity and TransEg to a bioform module. The branches are orthogonal and converge functionally in the cognitive transition machinery they enable, under form-invariant principles."
+    },
+    {
+      "type": "figure",
+      "id": "cems-and-a-theory-of-convergence",
+      "dimension": "2d",
+      "src": "assets/figures/cems-and-a-theory-of-convergence.png",
+      "alt": "CEMs and a Theory of Convergence",
+      "caption": "CEMs and a Theory of Convergence — Cognitive enablement across bioforms and synthetiforms, and convergence as contraction of a signed transition field",
+      "explanation": "Convergence is defined here as constraint-induced reduction of a transition space — a selective contraction of a signed field, acting on inclinations by suppression, amplification, neutralization, local constraint and commitment. That is more expressive than a plain diverge-then-converge model, because the operator acts on a signed field of possibilities rather than an unsigned set. It also yields the observational warning: observed local convergence does not entail global convergence, and observed global divergence does not entail local divergence.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Paradox of Innovation: A Theory of Convergence, by Abhishek Choudhary (AyeAI). This plate is \"CEMs and a Theory of Convergence\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this framework Inclination is a SIGNED directional disposition over possible transitions, distinct from a gradient and distinct from probability; an Act is executable intent; Natural Justice gates the transition from intent to execution; and convergence is constraint-induced contraction of a signed transition field. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Inclination is directional information over possible transitions — signed, dynamic, and central to action. It is not intent, not an act, and not execution."
+    }
+  ]
+}

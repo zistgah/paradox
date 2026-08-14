@@ -1,0 +1,52 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "The Paradox of Innovation: A Theory of Convergence",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+  "description": "<p>A poster series presenting a unified framework for cognitive transition dynamics across bioforms and synthetiforms. Its thesis is that innovation is not merely divergence but convergence after discovery, and that the capacity to explore without constraint while converging with precision is a scale-sensitive property rather than a personality trait.</p><p>The series introduces INCLINATION as a candidate missing primitive: a signed directional disposition over possible transitions, valued in the closed interval [-1,+1], attached to the transition structure rather than to states. Zero denotes directional neutrality rather than cessation; negative inclination is active counter-inclination rather than absence of positive inclination; decay weakens magnitude while preserving sign; reversal requires new information. Inclination is distinguished from gradient (a derivative field) and from probability (an expectational quantity), and is placed between Evaluation and Selection in the PEDLER chain, with a Natural Justice gate constraining the transition from intent to execution.</p><p>It further develops the Globally Divergent / Locally Convergent configuration, separates divergent capacity from convergent execution and from institutional realization (with consequences for what citation metrics actually measure), distinguishes Cognitive Enablement Modules by substrate, and formulates convergence as constraint-induced contraction of a signed transition field. Neuroscience correlates are cited as correlation, not proof.</p>",
+  "keywords": [
+    "inclination",
+    "PEDLER",
+    "convergence",
+    "divergence",
+    "Balance of Interpretation",
+    "Natural Justice",
+    "metacontrol",
+    "cognitive enablement",
+    "CEM",
+    "TransEg",
+    "synthetiform",
+    "biomimetics",
+    "epistemic authorship",
+    "innovation",
+    "computational ontology of cognition"
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17497559",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21397274",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21917807",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-book"
+    }
+  ]
+}
