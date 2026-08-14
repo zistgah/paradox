@@ -1,0 +1,18 @@
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.21928710",
+  "concept_doi": "10.5281/zenodo.21928709",
+  "record_url": "https://zenodo.org/record/21928710",
+  "deposition_id": 21928710,
+  "bucket": "https://zenodo.org/api/files/3ccba01f-6c9b-48d0-ac34-bde0d151b813",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "paradox-20260814T051859Z.tar.gz",
+      "size": 20792834,
+      "sha256": "6449b7fa82c8ca0e541b59edc4ae807bdaedf4930083debacf701de8b34032ac"
+    }
+  ],
+  "generated_at": "2026-08-14T05:20:12+00:00"
+}

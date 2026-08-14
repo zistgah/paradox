@@ -3,7 +3,7 @@
   "utc": "20260814T051859Z",
   "operation": "seed_paradox.sh 1.0.0",
   "repo": "zistgah/paradox",
-  "intent": "seed paradox: 9 plates + cover",
+  "intent": "record DOI 10.5281/zenodo.21928710 and reseal",
   "template": "zistgah/kitab",
   "template_head": "6f499df69b59b2260587b27b537b5f88e9ef682b",
   "agent": "Claude Opus 4.8"
